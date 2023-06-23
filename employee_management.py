@@ -5,7 +5,6 @@ from PIL import Image, ImageTk
 import mysql.connector
 from tkinter import messagebox
 
-
 class employee:
     def __init__(self, root):
         self.root = root
