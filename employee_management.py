@@ -7,7 +7,6 @@ from tkinter import messagebox
 
 
 
-
 class employee:
     def __init__(self, root):
         self.root = root
